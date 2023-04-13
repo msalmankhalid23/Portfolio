@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://github.com/msalmankhalid23/Resume/raw/main/Muhammad%2BSalman%2BKhalid_Software%2BEngineer.pdf";
+  "https://msalmankhalid23.github.io/Portfolio/src/Assets/Muhammad_Salman_Khalid_Software_Engineer.pdf";
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 
